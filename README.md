@@ -10,3 +10,5 @@ My open working projects, freelance etc
 [Transliteration (Cyrillic characters)](https://github.com/ArtemKhadris/Transliteration-Cyrillic-characters)
 
 [Roman-Arabic Calculator (JAVA)](https://github.com/ArtemKhadris/RomanArabicCalculator/tree/main)
+
+[Making Dataset For YoloV8](https://github.com/ArtemKhadris/makin_dataset)
